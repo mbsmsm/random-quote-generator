@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Quotes - Random Quote Generator",
+  "description": "An elegant, dark-themed random quote generator featuring curated quotes across wisdom, motivation, life, love, and perseverance with history navigation, favorites, and instant sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
